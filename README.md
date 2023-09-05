@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This Is Home page of IsuruNM. But need to change it. add some data.check it
+This Is Home page of IsuruNM. 
 
 <!--
 **IsuruNM/IsuruNM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
